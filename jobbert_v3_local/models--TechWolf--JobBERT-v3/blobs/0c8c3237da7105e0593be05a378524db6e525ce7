@@ -1,0 +1,17 @@
+{
+  "types": {
+    "6235903824_Dense": "sentence_transformers.models.Dense",
+    "6235904160_Dense": "sentence_transformers.models.Dense"
+  },
+  "structure": {
+    "anchor": [
+      "6235903824_Dense"
+    ],
+    "positive": [
+      "6235904160_Dense"
+    ]
+  },
+  "parameters": {
+    "allow_empty_key": true
+  }
+}
