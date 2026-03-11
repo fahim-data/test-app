@@ -1,0 +1,212 @@
+x,y,title
+8.6192,11.857964,AI Developer
+8.75443,11.97292,AI Engineer
+8.860321,11.798817,AI Engineer / AI Software Engineer
+8.899649,12.045078,AI Software Engineer
+9.306776,12.21483,Intelligent Systems Engineer
+-4.9584756,-4.800371,AI Governance Analyst
+-4.9116664,-4.769553,AI Policy / AI Governance Analyst
+-5.0639024,-4.8358436,AI Policy Advisor
+-5.0573926,-4.7834077,AI Policy Analyst
+-4.73277,-4.679799,AI Ethics Specialist
+-4.352959,-4.6203313,AI Risk Specialist
+-4.42483,-4.596905,AI Safety / Responsible AI Specialist
+-4.376044,-4.5868654,AI Safety Specialist
+-4.5313153,-4.734059,Responsible AI Specialist
+8.296717,12.460444,AI Trainer
+7.6526113,12.780206,AI Trainer / Labeling Specialist / Data Labeler
+7.3821697,12.755092,Annotation Specialist
+7.1591935,12.950576,Data Labeler
+8.080797,12.671089,Human-in-the-loop Trainer
+7.355127,12.872007,Labeling Specialist
+14.581773,16.638332,AI Product Lead
+14.4137335,16.567066,AI/ML Product Manager
+14.216294,16.3975,ML Product Manager
+14.275447,16.446827,Product Manager — ML
+11.927986,14.238056,AI Test Engineer
+11.993992,14.251399,AI/ML Test Engineer / ML QA Engineer
+12.119313,14.127456,ML QA Engineer
+11.992823,14.168798,ML Test Engineer
+-6.447044,7.0396357,Algorithm Designer
+-6.316794,7.1699395,Algorithm Engineer
+-6.2912917,7.1955347,Algorithm Engineer / Algorithms Developer
+-6.4012656,7.0856147,Algorithms Developer
+7.301203,6.9065413,Analytics Engineer
+7.317011,6.8526793,Analytics Ops Engineer
+7.187699,6.879634,Analytics Platform Engineer
+7.295545,7.1241403,Data Analytics Engineer
+1.1977476,12.747518,BI Developer
+1.129534,12.652364,BI Engineer
+1.3202564,12.766627,Business Intelligence (BI) Developer / BI Engineer
+0.2283451,12.497349,Data Visualization Developer
+0.8100692,12.542148,Looker Developer
+1.1831243,12.746806,Power BI Developer
+0.6717617,12.571746,Tableau Developer
+5.066537,4.5740113,CDO
+5.0044785,4.4497914,Chief Data Officer
+4.9535027,4.5421996,Chief Data Officer / Head of Data
+5.175542,4.3361907,Director of Data
+5.0954766,4.486225,Head of Data
+4.886472,4.6247253,VP Data & Analytics
+10.814856,9.8218155,Computer / Information Research Scientist
+10.673377,9.928665,Computer Research Scientist
+10.758666,9.830894,Information Research Scientist
+9.923288,10.113107,CV Engineer
+10.251718,12.406205,Computer Vision Engineer
+10.464284,12.208537,Image ML Engineer
+10.680884,12.18214,Video ML Engineer
+10.390144,12.39629,Vision ML Engineer
+2.0637162,13.156012,Business Data Analyst
+1.9476297,12.994824,Business Intelligence Analyst
+2.42585,13.217247,Data Analyst
+2.073417,13.115721,Data Analyst / Business Data Analyst
+2.4234538,13.402434,Data Reporting Analyst
+2.334235,12.857922,Insights Analyst
+2.2730703,13.26108,Reporting Analyst
+7.3617725,7.812954,Data Architect
+7.3599277,7.7746663,Data Solutions Architect
+7.463095,7.8916526,Enterprise Data Architect
+7.910417,7.771198,Information Architect
+7.2355785,7.3531046,Big Data Engineer
+7.1052885,7.4512596,Data Engineer
+7.0601287,7.0139427,Data Platform Engineer
+6.847005,9.265553,ETL Engineer
+9.676302,10.2773,Pipeline Engineer
+5.1457434,7.643352,DPO
+4.857386,13.044716,Data Governance Analyst
+4.7664213,12.851707,Data Governance Lead
+4.732157,13.069578,Data Governance Manager
+4.546512,12.915835,Data Governance Manager / Data Protection Roles
+4.8931413,13.08705,Data Governance Specialist
+1.38395,17.179256,Data Protection Officer
+1.1860427,17.400541,Privacy Officer
+3.7681918,17.826471,Data Journalist
+3.8510232,17.92463,Data Journalist / Data Storyteller
+3.8802252,17.958372,Data Narrative Specialist
+3.7185013,17.769882,Data Reporter
+3.862227,17.939796,Data Storyteller
+1.1044419,17.484814,Data Privacy Engineer
+1.0522631,17.546247,Data Privacy Engineer / Privacy Technologist
+1.0628409,17.52874,Privacy Engineer
+1.1027575,17.489447,Privacy Technologist
+6.9511604,10.528743,Analytics Translator
+6.502752,10.774217,Data Product Owner
+6.858214,10.544564,Data Product Owner / Analytics Translator
+7.168029,10.403286,Data Translator
+4.9796386,13.686056,Data Quality Analyst
+5.2110023,13.497742,Data Quality Analyst / Data Steward
+5.158672,13.593371,Data Quality Specialist
+5.288124,13.30195,Data Steward
+5.1672583,13.400825,Master Data Specialist
+8.601865,11.889133,AI Intern
+12.231917,10.867549,Data Science / ML Intern or Apprentice
+12.528768,10.7132845,Data Science Apprentice
+12.465799,10.78174,Data Science Intern
+11.743087,11.085703,ML Intern
+12.999443,10.788923,Applied Data Scientist
+2.0785024,13.1694565,Data Consultant
+13.010545,10.616543,Data Science Specialist
+12.971389,10.702209,Data Scientist
+12.955624,10.949696,Machine Learning Scientist
+13.112995,10.789112,Senior Data Scientist
+0.17955072,12.363308,Data Visualization Specialist
+0.19176091,12.3710575,Data Visualization Specialist / Data Viz Engineer
+0.69681925,12.18206,Data Viz Engineer
+0.100497976,12.332129,Information Visualization Specialist
+0.022064967,12.475351,Visualization Engineer
+6.957675,8.164893,DW Architect
+7.000343,8.379953,DW Developer
+6.9728556,7.9668984,Data Warehouse Architect
+6.6186194,8.031387,Data Warehouse Engineer
+6.7327943,8.136028,Data Warehouse Engineer / DW Architect
+5.148031,7.247522,DBA
+5.2123823,7.1389856,Database Administrator
+5.159229,7.2395635,Database Administrator (DBA)
+5.241452,7.1833615,Database Engineer
+9.668325,10.386822,DL Engineer
+10.599302,11.331231,Deep Learning Engineer
+9.431559,11.990894,Neural Network Engineer
+7.3651834,8.634736,Data Integration Developer
+6.87514,9.171181,ETL Developer
+6.773797,9.313657,ETL Engineer
+7.4216256,8.74491,Integration Developer
+11.505247,12.238629,Edge ML Engineer
+11.292703,12.310366,Embedded / Edge ML Engineer
+9.245644,11.944971,Embedded AI Engineer
+11.298028,12.142355,On-device ML Engineer
+8.199277,9.062358,Feature Developer
+8.490778,8.996569,Feature Engineer
+8.548864,9.072179,Feature Engineering Specialist
+8.755717,8.943998,Feature Scientist
+14.983652,16.814425,AI Director
+15.246944,17.08679,Chief AI Officer
+15.014127,16.817608,Director of AI
+15.144902,16.968819,Head of AI
+15.165943,16.994862,Head of AI / Chief AI Officer
+15.067357,17.091784,VP AI
+9.809263,10.058425,IR Engineer
+9.423342,6.912527,Information Retrieval Engineer
+9.567995,6.728334,Search & Retrieval Engineer
+8.633863,7.5301995,Knowledge Engineer
+8.569413,7.78694,Knowledge Engineer / Ontologist
+8.508918,7.6221485,Knowledge Graph Engineer
+8.6100025,8.264339,Ontologist
+7.0336094,9.709158,Semantic Engineer
+11.526701,12.104328,ML Ops Engineer
+11.538025,12.134838,ML Platform Engineer
+11.721715,12.23591,MLOps / ML Infrastructure Engineer
+11.745612,12.323864,MLOps Engineer
+13.52978,13.34893,Model Ops Engineer
+11.292188,11.748353,Applied ML Engineer
+11.195164,11.807608,ML Engineer
+11.831511,11.433434,Machine Learning Engineer
+11.19809,11.855587,Production ML Engineer
+12.924499,14.243603,ML Auditor
+13.244753,14.124374,Model Auditor
+13.4087925,13.92284,Model Risk Analyst
+13.397202,13.961855,Model Validator
+13.184079,14.133451,Model Validator / ML Auditor
+7.533665,10.206961,Computational Linguist
+7.6910014,10.358292,Language Engineer
+8.059378,10.57607,NLP / Natural Language Processing Engineer
+7.987378,10.447859,NLP Engineer
+15.442028,10.953103,OR Analyst
+15.500141,11.198172,Operations Research Analyst
+15.399458,10.997414,Operations Research Analyst / OR Specialist
+13.008298,10.459176,Optimization Specialist
+8.2014475,11.396873,Conversational AI Designer
+8.458201,11.938634,Generative AI Specialist
+9.386427,10.403686,LLM Engineer
+8.278723,10.963084,Prompt Designer
+8.430959,10.706852,Prompt Engineer
+8.54656,10.544106,Prompt Engineer / LLM Engineer / GenAI Specialist
+16.261433,12.268062,Quant
+16.244322,12.248949,Quant Developer
+16.088362,12.155037,Quantitative Analyst
+16.143791,12.145734,Quantitative Analyst / Quant
+16.116365,12.12826,Quantitative Researcher
+10.277149,11.141752,RL Engineer
+10.585885,10.778149,RL Researcher
+8.57442,12.607625,Reinforcement Learning Engineer
+10.777213,10.1584635,AI Research Scientist
+10.74578,10.606206,Deep Learning Researcher
+10.975722,10.490871,ML Researcher
+10.288448,10.021746,Research Engineer
+10.795745,10.182269,Research Scientist — AI / ML Researcher
+10.079594,12.624789,Perception Engineer
+9.909977,12.785881,Robotics / Perception Engineer
+9.546491,12.5464115,Robotics Engineer (AI)
+9.725467,12.778525,Robotics ML Engineer
+9.700646,6.8189597,Ranking Engineer
+9.5840645,6.6266184,Search / Relevance Engineer
+9.46667,6.720471,Search Engineer
+9.567734,6.6689844,Search Relevance Engineer
+13.570687,13.250494,Computational Modeller
+13.378378,13.071054,Modeling Engineer
+13.450147,13.102296,Simulation / Modelling Engineer
+13.240308,12.940727,Simulation Engineer
+15.683267,10.230927,Applied Statistician
+15.590443,10.188377,Biostatistician
+15.62536,10.328459,Statistical Analyst
+15.618194,10.207869,Statistician
+15.7436905,10.277328,Statistician / Applied Statistician

@@ -1,0 +1,425 @@
+x,y,Skill,Category,Type
+5.358146,2.3195803,APIs & integration,tech,core
+5.8836617,2.773691,Data handling,tech,core
+7.4386535,5.095311,ML inference integration,tech,core
+7.8638587,4.596793,Python,tech,core
+6.9681716,2.403989,Software design,tech,core
+7.681064,1.1879777,System reliability,tech,core
+8.219967,0.84484524,Testing & debugging,tech,core
+5.3723726,1.2831775,Cloud services,tech,supplementary
+7.7123346,5.4650836,MLOps collaboration,soft,supplementary
+8.551517,1.8762155,Performance tuning,tech,supplementary
+6.7369337,4.6357145,Responsible AI basics,tech,supplementary
+0.93612313,6.2575493,Security,tech,supplementary
+7.204284,4.2494826,Vector databases,tech,supplementary
+0.13398586,3.2101555,Clear writing & briefing,soft,core
+2.4056687,6.2849216,Governance frameworks,tech,core
+5.597609,5.550007,Policy research,tech,core
+9.066649,5.339526,Risk analysis,tech,core
+-0.22706419,3.0987172,Stakeholder consultation,soft,core
+6.789485,3.8248124,Program management,tech,supplementary
+6.646186,4.640434,Regulatory horizon scanning,tech,supplementary
+5.2194943,4.060672,Standards work (ISO/NIST),tech,supplementary
+6.347103,4.226812,Technical AI literacy,tech,supplementary
+6.930771,4.3459105,Bias/fairness assessment,tech,core
+6.468291,4.1540847,Documentation & auditability,tech,core
+6.68275,3.83445,Explainability methods,tech,core
+9.037506,5.687178,Model risk evaluation,tech,core
+5.669684,5.604201,Policy-to-practice translation,tech,core
+0.9666677,5.597958,Privacy techniques,tech,supplementary
+-0.5470219,3.0326602,Red teaming,soft,supplementary
+1.9739835,1.1510465,Regulatory monitoring,tech,supplementary
+1.0165749,6.2057886,Security/adversarial ML basics,tech,supplementary
+-0.2674678,2.9756494,Stakeholder facilitation,soft,supplementary
+1.1689787,2.8490775,Attention to detail,tech,core
+5.810106,3.662552,Data annotation,tech,core
+6.448438,2.255133,Labeling guidelines adherence,tech,core
+6.838968,1.0296059,Quality control,tech,core
+6.519073,3.7140503,Tooling proficiency,tech,core
+6.4206,4.733853,Active learning workflows,tech,supplementary
+7.4592376,6.5083666,Basic NLP/CV literacy,tech,supplementary
+5.2486644,3.751156,Domain knowledge,tech,supplementary
+5.80999,4.0954337,Inter-annotator agreement,tech,supplementary
+6.178309,4.04498,Data-informed decision making,tech,core
+7.8328505,1.7731687,Experimentation/KPIs,tech,core
+6.16083,4.7976604,Product strategy,tech,core
+6.1594567,4.6542344,Requirements & prioritization,tech,core
+-0.0054579927,2.653659,Stakeholder management,soft,core
+7.277466,5.255574,Understanding ML lifecycle,tech,core
+6.1863117,4.492942,Go-to-market basics,tech,supplementary
+2.6191325,6.442907,Model risk & governance awareness,tech,supplementary
+6.6174836,2.4398108,Pricing/packaging,tech,supplementary
+6.966969,5.949569,Prompting/GenAI product patterns,tech,supplementary
+5.0667524,3.2826936,UX for AI,tech,supplementary
+6.5921803,1.7368859,Automation,tech,core
+6.628871,3.0946434,Bug triage,tech,core
+8.656278,5.5976295,Data & model validation,tech,core
+8.060106,3.1348898,Metric-driven evaluation,tech,core
+7.3484783,4.796594,Reproducibility,tech,core
+7.9631042,0.5805799,Test design for ML,tech,core
+7.746234,0.6452323,Adversarial testing basics,tech,supplementary
+7.5593967,0.8258907,Fairness testing,tech,supplementary
+2.0237174,1.1784738,Monitoring in production,tech,supplementary
+7.856977,0.53384244,Robustness testing,tech,supplementary
+9.084827,3.4412458,Algorithm design,tech,core
+7.073238,4.560547,Complexity analysis,tech,core
+5.159421,1.822448,Data structures,tech,core
+9.304208,3.5556138,Programming (C++/Java/Python),tech,core
+8.080141,0.8332906,Testing & optimization,tech,core
+7.972591,5.0042224,Distributed systems,tech,supplementary
+5.055445,3.579823,Domain specialization,tech,supplementary
+7.239235,4.8908515,ML basics,tech,supplementary
+9.105976,2.2708132,Optimization methods,tech,supplementary
+7.10892,0.9228611,Data quality testing,tech,core
+6.209123,2.731308,Data transformation (dbt),tech,core
+9.131488,4.064519,Dimensional modeling,tech,core
+6.399843,3.9836168,Documentation,tech,core
+5.390358,2.9125912,SQL,tech,core
+7.0782037,4.118405,Version control,tech,core
+4.6810594,3.9135485,BI semantic layers,tech,supplementary
+7.939258,3.5160203,CI/CD for analytics,tech,supplementary
+5.868104,1.9084678,Orchestration (Airflow),tech,supplementary
+8.045818,1.8925194,Warehouse performance tuning,tech,supplementary
+4.1992617,3.2697132,BI tools (Tableau/Power BI/Looker),tech,core
+4.737518,3.3869426,Dashboard design,tech,core
+4.115749,2.588569,Data modeling for BI,tech,core
+6.797968,3.52499,Data validation,tech,core
+8.209359,2.8203173,KPI definition,tech,core
+4.5031385,2.1471102,Data warehousing concepts,tech,supplementary
+2.2859304,6.227589,Governance/permissions,tech,supplementary
+4.5783615,3.3393793,UX design for dashboards,tech,supplementary
+7.444975,3.3716369,Budgeting & resourcing,tech,core
+5.943229,3.692201,Data strategy,tech,core
+2.332938,6.3144865,Governance oversight,tech,core
+-0.12746948,3.4574337,Org leadership,soft,core
+6.0343585,4.7607975,Portfolio prioritization,tech,core
+6.21015,4.92685,AI strategy alignment,tech,supplementary
+6.1667027,3.593978,Change management,tech,supplementary
+4.6386724,1.7555003,Data platform architecture literacy,tech,supplementary
+5.6862698,4.9445004,External partnerships,tech,supplementary
+9.070912,3.7002099,Algorithms,tech,core
+8.737946,4.1091437,Computational methods,tech,core
+6.5425167,3.2440174,Data analysis,tech,core
+9.30495,3.651549,Programming (Python/C++/Java),tech,core
+5.110366,3.687895,Research design,tech,core
+-0.26641297,3.2335644,Scientific communication,soft,core
+-0.15732537,3.3271897,Grant writing,soft,supplementary
+8.498365,2.5914176,High-performance computing,tech,supplementary
+7.8025393,5.558703,Machine learning,tech,supplementary
+7.279586,2.526202,Systems design,tech,supplementary
+0.29598984,3.6864917,Teaching/mentoring,soft,supplementary
+8.212981,3.8571107,Computer vision fundamentals,tech,core
+6.40991,3.4282877,Data augmentation,tech,core
+7.6319413,5.882114,Deep learning (CNN/ViT),tech,core
+5.1750875,2.2741761,Deployment basics,tech,core
+8.6529045,5.665526,Model training & evaluation,tech,core
+7.881897,3.8032324,OpenCV,tech,core
+8.314852,3.795557,3D vision,tech,supplementary
+4.854388,1.69831,Edge deployment,tech,supplementary
+8.997555,2.3741198,Optimization/quantization,tech,supplementary
+8.362931,3.6635747,Sensor fusion,tech,supplementary
+7.0702868,3.7777495,Synthetic data,tech,supplementary
+-0.049072467,3.270105,Business communication,soft,core
+4.2117043,3.2799854,Dashboarding (Tableau/Power BI),tech,core
+6.1648083,2.7133863,Data cleaning,tech,core
+7.107664,3.7505744,Descriptive statistics,tech,core
+5.913591,3.0082593,Excel,tech,core
+7.2936506,2.7593017,Reporting & KPI design,tech,core
+8.177223,0.7774659,A/B testing,tech,supplementary
+8.65137,4.671097,Basic forecasting,tech,supplementary
+4.1112456,2.4846811,Data modeling basics,tech,supplementary
+4.8147073,3.8060222,Looker/semantic layers,tech,supplementary
+4.6968994,1.6901691,Data architecture patterns,tech,core
+4.1740384,2.4922085,Enterprise data modeling,tech,core
+2.422744,6.244368,Governance & standards,tech,core
+5.311829,2.347487,Integration design,tech,core
+7.0735526,2.3123891,Schema design,tech,core
+-0.43614176,3.0153117,Stakeholder alignment,soft,core
+4.951219,1.4052056,Cloud architecture,tech,supplementary
+4.963304,2.8423884,Metadata/catalogs,tech,supplementary
+8.562313,2.0707104,Performance optimization,tech,supplementary
+4.36655,1.7254646,Reference architectures,tech,supplementary
+0.95665413,6.047431,Security & privacy,tech,supplementary
+5.9150963,2.300068,Batch & streaming concepts,tech,core
+4.198921,2.435666,Data modeling,tech,core
+7.049783,1.2062824,Data quality & reliability,tech,core
+4.5562267,2.2578845,Data warehousing,tech,core
+5.996466,1.1645994,ETL/ELT pipelines,tech,core
+8.229356,3.1687887,Python/Scala,tech,core
+5.7750874,1.5460006,Airflow,tech,supplementary
+5.2078238,1.2123035,Cloud platforms (AWS/GCP/Azure),tech,supplementary
+4.6794806,1.2026116,Docker,tech,supplementary
+5.192574,1.5978892,Infrastructure as code (Terraform),tech,supplementary
+5.5759177,1.9411892,Kafka,tech,supplementary
+4.77302,1.1438408,Kubernetes,tech,supplementary
+8.012264,4.7751746,Spark,tech,supplementary
+6.5711737,5.1699314,Compliance coordination,tech,core
+2.370961,6.183723,Governance framework design,tech,core
+4.786452,2.8313556,Metadata/catalog strategy,tech,core
+5.281563,5.5001664,Policy & standards,tech,core
+1.073319,5.7048736,"Privacy regulation awareness (e.g., GDPR)",tech,core
+9.159555,5.2935314,Risk assessment,tech,core
+4.551451,1.6815729,Data architecture concepts,tech,supplementary
+6.664305,1.536194,Data quality tooling,tech,supplementary
+7.172967,3.083915,Incident response coordination,tech,supplementary
+1.0726316,6.26487,Security controls basics,tech,supplementary
+5.979533,4.43649,Training & enablement,tech,supplementary
+-0.14524569,3.3237917,Clear writing,soft,core
+4.0434947,3.4795291,Data visualization,tech,core
+6.288513,3.6168356,Fact checking,tech,core
+5.9336333,3.9039528,Storytelling,tech,core
+6.240551,3.2893057,Tools (Excel/SQL),tech,core
+4.505522,3.438562,Interactive graphics,tech,supplementary
+7.231874,3.7147086,Investigative methods,tech,supplementary
+8.719435,3.4582257,Python/R,tech,supplementary
+5.648768,3.6122923,Web publishing,tech,supplementary
+6.310275,2.9083722,Access controls,tech,core
+5.963078,2.560196,Data mapping,tech,core
+6.4029274,2.895743,Data minimization,tech,core
+5.9179034,3.3370569,Encryption basics,tech,core
+0.95809793,5.750649,Privacy-by-design,tech,core
+6.7446713,5.334353,Regulatory alignment,tech,core
+6.0540895,2.4225621,Anonymization/pseudonymization,tech,supplementary
+0.9057223,5.6404824,Differential privacy,tech,supplementary
+7.4561276,3.2411697,Secure enclaves,tech,supplementary
+0.9803692,6.1639814,Security engineering,tech,supplementary
+5.9432077,4.804101,Backlog prioritization,tech,core
+0.4213221,3.5861607,Communication,soft,core
+6.075893,3.5257473,Data literacy,tech,core
+8.184553,2.6630838,KPI framing,tech,core
+6.15383,4.3950887,Requirements translation,tech,core
+7.712096,1.588241,Experimentation,tech,supplementary
+6.166062,3.4797132,SQL basics,tech,supplementary
+5.9708757,3.8487606,Storytelling with data,tech,supplementary
+6.1284337,2.9620686,Data profiling,tech,core
+6.755932,1.1403742,Data quality management,tech,core
+5.202629,3.966508,Data standards,tech,core
+6.7066917,3.352848,Issue triage,tech,core
+4.836776,2.7744708,Metadata management,tech,core
+-0.44122607,2.888054,Stakeholder coordination,soft,core
+5.953782,3.5281389,Data catalog tools,tech,supplementary
+5.792012,2.5254362,Master data management,tech,supplementary
+0.9111561,5.618168,Privacy basics,tech,supplementary
+7.5695415,3.5134,Exploratory analysis,tech,core
+7.517702,5.206014,Basic ML,tech,supplementary
+5.5633483,1.6364759,Cloud basics,tech,supplementary
+6.4603863,3.7701533,Notebook best practices,tech,supplementary
+4.311411,3.4847164,Visualization,tech,supplementary
+6.143285,3.0930884,Data wrangling,tech,core
+7.995791,0.9861534,Experimentation/A-B testing,tech,core
+-0.35948917,2.9460218,Stakeholder communication,soft,core
+8.427972,4.6493597,Statistics,tech,core
+8.084931,5.7589083,Feature engineering,tech,supplementary
+8.284697,5.724412,Model deployment basics,tech,supplementary
+7.7750354,3.162361,R,tech,supplementary
+4.7362556,3.439127,Charting libraries,tech,core
+5.376084,3.4985933,Dashboarding tools,tech,core
+4.0406466,3.4190953,Data visualization principles,tech,core
+7.744278,3.3864136,Advanced interactive viz (D3),tech,supplementary
+6.0113387,3.7523878,Data journalism techniques,tech,supplementary
+5.6317105,3.5011349,Front-end basics,tech,supplementary
+4.8233852,3.2179036,UX design,tech,supplementary
+6.982028,1.2608801,Data quality,tech,core
+6.0675445,1.0532846,ETL/ELT,tech,core
+7.114093,2.0859642,Warehouse design,tech,core
+5.326952,2.3972056,BI integration,tech,supplementary
+5.2885876,1.1460636,Cloud warehouses (Snowflake/Redshift/BigQuery),tech,supplementary
+8.185967,2.5294874,Cost optimization,tech,supplementary
+5.94864,1.920557,Orchestration,tech,supplementary
+5.3109517,1.7621884,Backup & recovery,tech,core
+5.5135303,2.4203815,Database administration,tech,core
+1.9845804,1.1491892,Monitoring & troubleshooting,tech,core
+0.8785159,6.1647778,Security & access control,tech,core
+6.3863835,1.9406598,Automation scripting,tech,supplementary
+9.122118,2.2528718,Capacity planning,tech,supplementary
+5.4977393,1.6246765,Cloud managed databases,tech,supplementary
+7.475702,4.5861793,High availability/replication,tech,supplementary
+8.533048,1.528256,Evaluation & debugging,tech,core
+8.702421,2.9157417,GPU computing,tech,core
+4.2872777,1.8149247,Neural network architecture,tech,core
+9.079323,2.1001751,Optimization & tuning,tech,core
+8.239242,3.9476728,PyTorch/TensorFlow,tech,core
+5.822714,4.3654494,Training at scale,tech,core
+7.860051,5.0964017,Distributed training,tech,supplementary
+8.589926,4.1772447,Mixed precision,tech,supplementary
+8.417092,5.606396,Model compression (quantization/pruning),tech,supplementary
+8.664998,2.7256184,Specialized accelerators,tech,supplementary
+5.757445,2.183172,Data integration,tech,core
+6.2551527,2.5303588,Data transformation,tech,core
+6.204958,1.0385488,ETL/ELT development,tech,core
+6.56204,2.4010766,Error handling & logging,tech,core
+9.206503,2.7110026,Scheduling,tech,core
+5.503486,2.3604915,API integration,tech,supplementary
+5.697739,1.1112434,Cloud ETL tools,tech,supplementary
+6.7825823,1.1785911,Data quality frameworks,tech,supplementary
+5.606177,3.1115842,Streaming basics,tech,supplementary
+9.1314745,3.7789335,C/C++,tech,core
+8.536275,5.706985,Model optimization,tech,core
+8.195362,3.4579828,On-device inference,tech,core
+5.8161945,3.0188963,Profiling,tech,core
+8.557391,4.550293,Quantization,tech,core
+8.707446,2.97774,Hardware accelerators,tech,supplementary
+8.835014,2.3655827,Power/latency optimization,tech,supplementary
+8.375279,3.514696,Sensor integration,tech,supplementary
+7.1636906,4.053633,TinyML toolchains,tech,supplementary
+5.974416,2.6766884,Data preprocessing,tech,core
+8.794899,5.6291733,Understanding model requirements,tech,core
+8.1552725,0.6602608,Validation/testing,tech,core
+4.7236876,3.4437025,Domain feature design,tech,supplementary
+4.8646064,1.5484533,Feature stores,tech,supplementary
+1.9292855,1.0367774,Model monitoring signals,tech,supplementary
+5.66444,2.301969,Streaming features,tech,supplementary
+6.3476634,4.9070845,AI portfolio management,tech,core
+6.0673666,4.9148154,AI product delivery oversight,tech,core
+6.11922,4.3535633,AI strategy,tech,core
+-0.008125508,3.5213406,Leadership & org design,soft,core
+2.4214575,6.1867805,Responsible AI governance,tech,core
+4.464805,1.7010583,Platform architecture literacy,tech,supplementary
+6.436935,5.235256,Regulatory engagement,tech,supplementary
+5.739209,4.8956842,Research partnerships,tech,supplementary
+6.077116,4.268446,Talent development,tech,supplementary
+7.580033,3.7600455,Evaluation,tech,core
+5.3232093,3.4786127,Indexing & search,tech,core
+5.6742406,3.4940715,Information retrieval,tech,core
+7.366331,6.6561284,NLP basics,tech,core
+8.44388,3.2685752,Python/Java,tech,core
+5.4005547,4.53356,Ranking,tech,core
+5.7785015,4.5025935,Learning to rank,tech,supplementary
+6.7006087,2.8662028,RAG integration,tech,supplementary
+8.529746,1.9973823,Scalability/performance tuning,tech,supplementary
+5.3035774,3.655102,Knowledge graphs,tech,core
+4.802673,4.192713,Ontology modeling,tech,core
+4.653886,3.9267175,Semantic web concepts,tech,core
+-0.43153504,3.203875,Stakeholder elicitation,soft,core
+6.672322,4.369264,Entity resolution,tech,supplementary
+5.717734,3.2172036,Graph databases,tech,supplementary
+6.8467107,2.9567611,RAG/knowledge-augmented AI,tech,supplementary
+5.134067,2.9323564,SPARQL,tech,supplementary
+7.6432204,5.441167,CI/CD for ML,tech,core
+4.930091,1.3031646,Containerization (Docker),tech,core
+8.330324,5.712576,Model deployment,tech,core
+2.183853,1.2776756,Model monitoring & observability,tech,core
+5.697146,1.7032064,Orchestration (Kubernetes),tech,core
+6.0175633,1.5451694,Pipeline automation,tech,core
+7.3206205,4.644976,Reproducibility & versioning,tech,core
+8.631706,5.8748407,Model registries,tech,supplementary
+1.0525525,6.079904,Security & compliance,tech,supplementary
+7.7872496,5.1752357,ML frameworks (PyTorch/TensorFlow),tech,core
+7.10419,2.686684,Software engineering,tech,core
+7.7867517,0.61044604,Testing,tech,core
+7.1411614,4.0274415,Version control (Git),tech,core
+4.615457,1.0248195,CI/CD,tech,supplementary
+5.499257,1.3165306,Cloud ML services,tech,supplementary
+1.9888276,1.1268505,Model monitoring,tech,supplementary
+2.1493921,6.0359197,Governance/compliance,tech,core
+8.805432,5.825266,Model validation,tech,core
+8.535481,2.1838229,Performance metrics,tech,core
+7.7011414,4.186269,Statistical analysis,tech,core
+7.9541583,0.4662891,Testing & backtesting,tech,core
+9.203001,5.2309794,Domain risk expertise,tech,supplementary
+2.048505,1.0696179,Monitoring frameworks,tech,supplementary
+8.072131,0.77055085,Stress testing,tech,supplementary
+6.7420273,1.3610489,Data labeling/quality,tech,core
+8.775895,3.1609116,Embeddings & transformers,tech,core
+8.961362,5.884318,Model evaluation,tech,core
+7.4007535,6.649745,NLP libraries (spaCy/Hugging Face),tech,core
+5.5744104,3.0967758,Text preprocessing,tech,core
+5.863393,3.1957536,Information extraction,tech,supplementary
+7.4132614,6.659768,Multilingual NLP,tech,supplementary
+7.059794,6.0200315,Prompting/LLM tooling,tech,supplementary
+8.825209,5.9609523,Retrieval-augmented generation (RAG),tech,supplementary
+7.3384786,6.5498013,Speech/NLU integration,tech,supplementary
+9.46749,3.960837,Linear/integer programming,tech,core
+9.3307,2.4728682,Optimization modeling,tech,core
+6.599515,3.5159912,Problem formulation,tech,core
+9.577499,4.0827065,Simulation,tech,core
+8.153709,4.0893707,Heuristics/metaheuristics,tech,supplementary
+6.8372602,3.1150753,Supply chain domain,tech,supplementary
+6.9703646,6.315877,LLM APIs,tech,core
+6.954773,6.2578034,LLM evaluation,tech,core
+7.01706,5.9373837,Prompt design,tech,core
+6.7153063,2.8614767,RAG patterns,tech,core
+7.529816,2.9423022,Safety/guardrails basics,tech,core
+5.9276834,2.9546752,Tool/function calling patterns,tech,core
+5.3422236,3.2869692,Conversation design,tech,supplementary
+8.428789,2.3136299,Cost/performance optimization,tech,supplementary
+7.058607,4.8887405,Fine-tuning/adapter methods,tech,supplementary
+2.1641686,1.0208654,Monitoring & analytics,tech,supplementary
+9.158638,2.2293599,Optimization,tech,core
+8.471183,4.457693,Probability & statistics,tech,core
+9.496678,3.7888558,Programming (Python/C++/R),tech,core
+9.16417,5.5121393,Risk modeling,tech,core
+9.067151,4.28163,Time series modeling,tech,core
+8.769033,5.026735,Derivatives knowledge,tech,supplementary
+7.983082,4.9071302,Distributed computing,tech,supplementary
+9.097439,4.58272,Trading systems,tech,supplementary
+5.56923,5.545737,Policy optimization,tech,core
+8.124734,3.9676993,RL fundamentals,tech,core
+9.561214,4.007911,Simulation environments,tech,core
+7.867543,4.8054004,Distributed RL,tech,supplementary
+8.39803,3.3904865,Offline RL,tech,supplementary
+7.798145,2.4369817,Robotics/control theory,tech,supplementary
+7.874662,2.8205616,Safety constraints,tech,supplementary
+7.645128,6.0479646,Deep learning,tech,core
+7.6554418,1.5821733,Experiment design,tech,core
+8.761098,4.299149,Mathematics (linear algebra/probability),tech,core
+0.012705661,3.6171622,Paper reading/writing,soft,core
+7.105724,3.838338,Research methods,tech,core
+9.151632,3.5403724,Scientific programming (Python),tech,core
+5.6672926,3.8598924,Benchmarking,tech,supplementary
+8.9993515,3.760079,C++,tech,supplementary
+-0.46660376,2.9929717,Collaboration with product/engineering,soft,supplementary
+7.6430545,4.256812,Open-source contribution,tech,supplementary
+6.8264503,4.92379,Responsible AI / fairness,tech,supplementary
+8.27278,3.8268816,Computer vision,tech,core
+8.505124,3.6118011,Perception algorithms,tech,core
+9.1610985,3.8508332,Python/C++,tech,core
+7.8371835,2.5006585,Robotics middleware (ROS),tech,core
+8.363385,0.9336253,Testing in simulation,tech,core
+7.6763325,2.3599093,Control systems,tech,supplementary
+7.0258684,5.098115,Reinforcement learning,tech,supplementary
+7.6613874,3.6296694,SLAM,tech,supplementary
+5.189418,3.140666,Indexing,tech,core
+6.5051374,3.5757005,Query understanding,tech,core
+5.45684,4.61254,Ranking/relevance,tech,core
+5.349553,4.187049,Search evaluation metrics,tech,core
+7.336249,6.6943307,NLP for search,tech,supplementary
+5.4505334,4.6196995,Recommendation systems,tech,supplementary
+6.7879214,4.2923074,Vector search,tech,supplementary
+9.443624,4.5102396,Modeling & simulation,tech,core
+9.346937,3.3760502,Programming (Python/Matlab),tech,core
+9.255081,4.504818,Scenario analysis,tech,core
+8.396677,1.3601226,Validation & calibration,tech,core
+7.9161525,3.0829256,HPC,tech,supplementary
+9.012857,2.1420865,Optimization integration,tech,supplementary
+7.544831,1.7900184,Experimental design,tech,core
+6.2484155,3.956676,Interpretation & reporting,tech,core
+8.883451,3.3431427,R/Python,tech,core
+9.050507,5.6575127,Regression & modeling,tech,core
+7.535036,4.0432444,Statistical inference,tech,core
+7.5313067,3.992742,Bayesian methods,tech,supplementary
+7.035388,3.781707,Causal inference,tech,supplementary
+7.5428376,1.0545539,Resilience,soft,Soft Skill
+0.30949175,2.6795592,Accountability,soft,Soft Skill
+0.27911904,2.8741646,Negotiation,soft,Soft Skill
+0.3223371,3.620167,Coaching,soft,Soft Skill
+0.35591885,2.6861122,Problem Solving,soft,Soft Skill
+0.5826686,3.3407288,Creativity,soft,Soft Skill
+0.48284423,3.3812943,Adaptability,soft,Soft Skill
+0.44395244,3.446575,Influence,soft,Soft Skill
+-0.057377134,2.6888087,Stakeholder Management,soft,Soft Skill
+0.39101848,3.8678498,Interpersonal Skills,soft,Soft Skill
+-0.14901045,2.9265828,Teamwork,soft,Soft Skill
+1.3145268,3.0590203,Organisation,soft,Soft Skill
+1.0930308,2.8581228,Attention to Detail,soft,Soft Skill
+0.70623,3.8956342,Empathy,soft,Soft Skill
+0.89021283,2.8650014,Time Management,soft,Soft Skill
+0.29596537,3.5447783,Leadership,soft,Soft Skill
+1.0656567,3.9359772,Critical Thinking,soft,Soft Skill
+0.9461309,3.5949767,Conflict Resolution,soft,Soft Skill
+1.2020626,3.6133747,Presentation,soft,Soft Skill
+0.3517296,3.6594238,Active Listening,soft,Soft Skill
+0.12167733,2.691946,Collaboration,soft,Soft Skill
+0.47772714,3.713881,Mentoring,soft,Soft Skill
+-0.31149256,3.4535902,Decision Making,soft,Soft Skill
+0.10772297,2.5575893,Customer Focus,soft,Soft Skill
