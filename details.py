@@ -107,7 +107,7 @@ def show_job_details(job_title, data_dict):
             fig_ts.update_traces(line_color='#03EF62', line_width=3)
             fig_ts.update_layout(xaxis_title='', yaxis_title='', margin=dict(
                 l=0, r=0, t=20, b=0), paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)', height=350)
-            st.plotly_chart(fig_ts, use_container_width=True)
+            st.plotly_chart(fig_ts, width="stretch")
 
     st.divider()
 
@@ -128,7 +128,7 @@ def show_job_details(job_title, data_dict):
                 fig_geo = px.bar(geo_data, x=count_col, y=loc_col, orientation='h', template='plotly_white')
                 fig_geo.update_traces(marker_color='#05192D') 
                 fig_geo.update_layout(xaxis_title='', yaxis_title='', yaxis={'categoryorder':'total ascending'}, margin=dict(l=0, r=0, t=20, b=0), paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)', height=350)
-                st.plotly_chart(fig_geo, use_container_width=True)
+                st.plotly_chart(fig_geo, width="stretch")
             else:
                 st.info('Geography data unavailable for this role.')
         else:
@@ -149,7 +149,7 @@ def show_job_details(job_title, data_dict):
                 fig_emp = px.bar(emp_data, x=count_col, y=comp_col, orientation='h', template='plotly_white')
                 fig_emp.update_traces(marker_color='#03EF62')
                 fig_emp.update_layout(xaxis_title='', yaxis_title='', yaxis={'categoryorder':'total ascending'}, margin=dict(l=0, r=0, t=20, b=0), paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)', height=350)
-                st.plotly_chart(fig_emp, use_container_width=True)
+                st.plotly_chart(fig_emp, width="stretch")
             else:
                 st.info('Employer data unavailable for this role.')
         else:
@@ -210,7 +210,7 @@ def show_job_details(job_title, data_dict):
             height=400,
             hovermode='closest'
         )
-        st.plotly_chart(fig_map, use_container_width=True)
+        st.plotly_chart(fig_map, width="stretch")
     else:
         st.info(
             "Landscape map data not available. Please ensure 'job_map_data.csv' is loaded in data_manager.")
@@ -241,7 +241,7 @@ def show_job_details(job_title, data_dict):
             fig_f.update_traces(marker_color='#03EF62')
             fig_f.update_layout(xaxis_title='', yaxis_title='', yaxis={'categoryorder': 'total ascending'}, margin=dict(
                 l=0, r=0, t=20, b=0), paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)', height=350)
-            st.plotly_chart(fig_f, use_container_width=True)
+            st.plotly_chart(fig_f, width="stretch")
         with col_sk_ts:
             st.subheader('In-Demand Skills Over Time')
             t_data = job_trends[job_trends['Skill'].isin(t_skills)]
@@ -250,7 +250,7 @@ def show_job_details(job_title, data_dict):
                             color='Skill', template='plotly_white', color_discrete_sequence=pal)
             fig_s.update_layout(xaxis_title='', yaxis_title='', margin=dict(l=0, r=0, t=20, b=0), paper_bgcolor='rgba(0,0,0,0)',
                                 plot_bgcolor='rgba(0,0,0,0)', height=350, legend=dict(orientation='h', yanchor='bottom', y=1.02, xanchor='right', x=1))
-            st.plotly_chart(fig_s, use_container_width=True)
+            st.plotly_chart(fig_s, width="stretch")
 
     st.divider()
 
@@ -315,7 +315,7 @@ def show_job_details(job_title, data_dict):
             yaxis=dict(showgrid=False, zeroline=False, visible=False),
             showlegend=False, margin=dict(l=0, r=0, t=10, b=0), height=400, hovermode='closest'
         )
-        st.plotly_chart(fig_sk_map, use_container_width=True)
+        st.plotly_chart(fig_sk_map, width="stretch")
     else:
         st.info("Skill landscape map data not available.")
 
@@ -331,10 +331,10 @@ def show_job_details(job_title, data_dict):
         c1, c2 = st.columns(2)
         with c1:
             rn1 = roles[i][0]
-            st.button(rn1, key=f'rel_{rn1}_{i}', use_container_width=True,
+            st.button(rn1, key=f'rel_{rn1}_{i}', width="stretch",
                       on_click=update_to_related, args=(rn1,))
         if i + 1 < len(roles):
             with c2:
                 rn2 = roles[i+1][0]
-                st.button(rn2, key=f'rel_{rn2}_{i+1}', use_container_width=True,
+                st.button(rn2, key=f'rel_{rn2}_{i+1}', width="stretch",
                           on_click=update_to_related, args=(rn2,))

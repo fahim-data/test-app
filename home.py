@@ -1,16 +1,12 @@
 import streamlit as st
 import utils
 
-def trigger_search():
-    # 1. Terminal Check
-    print("DEBUG: trigger_search function CALLED") 
-    
+def trigger_search():    
     search_value = st.session_state.get('home_search_selectbox')
     
     if search_value:
         st.session_state.selected_job = search_value
         st.session_state.current_page = "Job Details"
-        print(f"DEBUG: Redirecting to Details for: {search_value}")
     else:
         st.error("Selectbox is empty!")
 

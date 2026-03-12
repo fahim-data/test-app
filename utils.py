@@ -30,7 +30,8 @@ def get_llm_overview(original_jd):
         for chunk in response:
             if chunk.choices[0].delta.content:
                 yield chunk.choices[0].delta.content
-    except Exception:
+    except Exception as e:
+        print(e)
         yield 'Overview currently unavailable.'
 
 

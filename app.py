@@ -99,7 +99,8 @@ for i, option in enumerate(nav_options):
         unsafe_allow_html=True,
     )
 
-    if st.sidebar.button(option, key=f"nav_btn_{i}", use_container_width=True):
+    # UPDATED: Replaced use_container_width=True with width="stretch"
+    if st.sidebar.button(option, key=f"nav_btn_{i}", width="stretch"):
         # FRESH LOAD LOGIC: If entering Compare Jobs, reset its internal state
         if option == "Compare Jobs":
             st.session_state.compare_active = False

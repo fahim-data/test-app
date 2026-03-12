@@ -84,8 +84,11 @@ def show_compare_page(data_dict):
         rel1, rel2 = st.columns(2)
         def render_rel(can, suf):
             roles = utils.get_related_titles(can, skills_df)[:5]
-            st.markdown('**Job Title**')
             for i, (rn, _) in enumerate(roles):
                 st.button(rn, key=f'comp_btn_{suf}_{i}', use_container_width=True, on_click=navigate_to_details, args=(rn,))
-        with rel1: render_rel(can_a, 'a')
-        with rel2: render_rel(can_b, 'b')
+        with rel1: 
+            st.markdown(f'Roles related to **{job_a}**')
+            render_rel(can_a, 'a')
+        with rel2:
+            st.markdown(f'Roles related to **{job_b}**')
+            render_rel(can_b, 'b')
